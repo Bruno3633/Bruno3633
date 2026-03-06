@@ -1,7 +1,7 @@
 Bem-vindo ao meu perfil!!😊🎉
 
 Bruno Cústodio dos Santos
-16y
+17y
 Cursando técnico de desenvolvimento de sistemas.
 Atualmente não estou procurando um estágio.
 Atualmente só sei python.
